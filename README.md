@@ -24,8 +24,19 @@ A sleek, responsive weather forecast application built using **React**, **CSS**,
 - 🧭 Default City Weather — Automatically loads default city weather (e.g., London) on page load.   
 - 📱 Responsive Design — Works seamlessly across devices.
 
+
+## 🖼️ Application Screenshot
+
+Here’s a quick preview of the **Weather Now App** built using React and Open-Meteo API 👇  
+
+## 🖼️ ScreenShot
+![Weather App Screenshot](https://drive.google.com/uc?export=view&id=1TQaPZXSIOk04foCJHmQsxl61Y2TxuisP)
+
 ## 🚀 Live Demo
-👉 [Visit ClimateCraft](https://github.com/prem2621/Weather-App)
+👉 [Visit ClimateCraft](https://climate-craft.netlify.app)
+## 📂 GitHub Repository
+👉 [View Code on GitHub](https://github.com/prem2621/Weather)
+
 
 
 ## 🧪 Tech Stack
