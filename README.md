@@ -33,7 +33,7 @@ Here’s a quick preview of the **Weather Now App** built using React and Open-M
 ![Weather App Screenshot](https://drive.google.com/uc?export=view&id=1TQaPZXSIOk04foCJHmQsxl61Y2TxuisP)
 
 ## 🚀 Live Demo
-👉 [Visit ClimateCraft](https://climate-craft.netlify.app)
+👉 [Visit ClimateCraft](https://prem2621.github.io/weather)
 ## 📂 GitHub Repository
 👉 [View Code on GitHub](https://github.com/prem2621/Weather)
 
